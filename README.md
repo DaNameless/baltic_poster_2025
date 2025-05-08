@@ -7,7 +7,6 @@ This repository contains supplementary materials for my poster presentation, inc
 ```
 poster_baltic_2025
 ├── figures/           # High-resolution figures and diagrams
-├── scripts/           # Code and analysis scripts
 ├── docs/              # Extended explanations, references, or notes
 └── README.md          # This file
 ```

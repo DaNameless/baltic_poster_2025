@@ -18,12 +18,7 @@ poster_baltic_2025
 - High-resolution versions of figures used in the poster.
 - Additional supporting figures not included in the poster due to space constraints.
 
-### Scripts (`/scripts`)
-- Data processing, analysis, or visualization scripts.
-- Code used to generate figures or results mentioned in the poster.
-
 ### Extended Information (`/docs`)
-- Detailed methods, extended results, or references.
 - Supplemental text that provides deeper context for the poster content.
 
 ## Poster Reference

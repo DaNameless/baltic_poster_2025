@@ -1,0 +1,40 @@
+\begin{thebibliography}{1}
+
+\bibitem{cockayne2011}
+E.~Cockayne, G.~M. Rutter, N.~P. Guisinger, J.~N. Crain, P.~N. First, and J.~A.
+  Stroscio.
+\newblock Grain boundary loops in graphene.
+\newblock {\em Physical Review B}, 83(19):195425, 2011.
+
+\bibitem{pinto2014}
+H.~P. Pinto and J.~Leszczynski.
+\newblock Fundamental properties of graphene.
+\newblock In F.~D'Souza and K.~M. Kadish, editors, {\em Handbook of Carbon
+  Nanomaterials: Volume 5. Graphene—Fundamental Properties}, pages 1--37.
+  World Scientific, 2014.
+
+\bibitem{kresse1996}
+G.~Kresse and J.~Furthmüller.
+\newblock Efficiency of ab-initio total energy calculations for metals and
+  semiconductors using a plane-wave basis set.
+\newblock {\em Computational Materials Science}, 6(1):15--50, 1996.
+
+\bibitem{furness2020}
+J.~W. Furness, A.~D. Kaplan, J.~Ning, J.~P. Perdew, and J.~Sun.
+\newblock Accurate and numerically efficient r2scan meta-generalized gradient
+  approximation.
+\newblock {\em Journal of Physical Chemistry Letters}, 11(19):8208--8215, 2020.
+
+\bibitem{momma2011}
+K.~Momma and F.~Izumi.
+\newblock Vesta 3 for three-dimensional visualization of crystal, volumetric
+  and morphology data.
+\newblock {\em Journal of Applied Crystallography}, 44(6):1272--1276, 2011.
+
+\bibitem{Andrew2012}
+R.~C. Andrew, R.~E. Mapasha, A.~M. Ukpong, and N.~Chetty.
+\newblock Mechanical properties of graphene and boronitrene.
+\newblock {\em Physical Review B - Condensed Matter and Materials Physics},
+  85:125428, 3 2012.
+
+\end{thebibliography}

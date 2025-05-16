@@ -23,7 +23,7 @@ poster_baltic_2025
 ## Poster Reference
 This repository supplements the poster titled:  
 **First principles studies of 7x7 graphene superlattices with topological defects and transition metal adatoms**  
-Presented at: [https://nsbc.ug.edu.pl/][NSBC] (2025)  
+Presented at: [NSBC](https://nsbc.ug.edu.pl/) (2025)  
 
 ## Contact
 For questions or additional information, please contact:  
